@@ -32,15 +32,12 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.AsyncImage
 import com.example.moviesapimvvm.Data.MovieViewModel
-import com.example.moviesapimvvm.R
 import com.example.moviesapimvvm.Dataclass.Details
 import org.koin.androidx.compose.koinViewModel
 import androidx.compose.runtime.collectAsState

@@ -5,7 +5,6 @@ import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import com.example.moviesapimvvm.Dataclass.Data
 import com.example.moviesapimvvm.Dataclass.Details
-import com.example.moviesapimvvm.Dataclass.MoviesData
 import com.example.moviesapimvvm.Utills.RetrofitInstance
 import com.example.moviesapimvvm.pagination.MoviePagingSource
 import kotlinx.coroutines.flow.Flow
